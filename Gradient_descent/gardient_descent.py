@@ -1,3 +1,6 @@
+'''
+followed by https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1
+'''
 import matplotlib as mpl
 import matplotlib.pylab as plt
 import numpy as np
